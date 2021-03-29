@@ -1,0 +1,21 @@
+{
+  "name": "rabstvo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vk-io/hear": "^1.0.2",
+    "auto-git-update": "^2.0.1",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "rus-anonym-utils": "^2.1.0",
+    "simple-scheduler-task": "^3.2.1",
+    "utils": "^0.3.1",
+    "vk-io": "^4.1.4"
+  }
+}
